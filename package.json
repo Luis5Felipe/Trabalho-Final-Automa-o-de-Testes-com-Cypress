@@ -1,0 +1,25 @@
+{
+  "name": "trabalho-final-automa-o-de-testes-com-cypress",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Luis5Felipe/Trabalho-Final-Automa-o-de-Testes-com-Cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Luis5Felipe/Trabalho-Final-Automa-o-de-Testes-com-Cypress/issues"
+  },
+  "homepage": "https://github.com/Luis5Felipe/Trabalho-Final-Automa-o-de-Testes-com-Cypress#readme",
+  "devDependencies": {
+    "cypress": "^16.2.1"
+  }
+}
