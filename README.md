@@ -4,6 +4,13 @@ Trabalho final da disciplina de Teste de Qualidade de Software. O projeto automa
 
 Os casos de teste seguem a lista oficial do site: [automationexercise.com/test_cases](https://automationexercise.com/test_cases).
 
+# Integrantes do trio
+
+- Luis Felipe Dos Santos
+- Nicollas Villela 
+- Guilherme Martins
+
+
 ## Pré-requisitos
 
 - [Node.js](https://nodejs.org) 18 ou superior
