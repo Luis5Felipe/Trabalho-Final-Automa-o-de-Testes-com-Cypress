@@ -1,5 +1,5 @@
 
-describe('Funcionalidade de Inscrição pelo Carrinho', () => {
+describe('Test Case 11: Verify Subscription in Cart page', () => {
 
     it('Deve realizar a inscrição pela página do carrinho', () => {
 

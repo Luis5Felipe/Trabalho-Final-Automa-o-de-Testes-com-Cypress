@@ -1,5 +1,5 @@
 
-describe('Funcionalidade de Pesquisa de Produtos', () => {
+describe('Test Case 9: Search Product', () => {
 
     it('Deve acessar a página inicial com sucesso', () => {
 

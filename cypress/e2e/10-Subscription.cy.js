@@ -1,5 +1,5 @@
 
-describe('Funcionalidade de Inscrição', () => {
+describe('Test Case 10: Verify Subscription in home page', () => {
 
     it('Deve realizar a inscrição na newsletter com sucesso', () => {
 
